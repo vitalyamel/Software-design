@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patients xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance">
+
+	<patient id ="1">
+		<name>Melnichenko Vitaly Andreedvich</name>
+		<birth>25.10.2000</birth>
+		<policy>6190665912678251</policy>
+		<test>
+			<date>13.08.21</date>
+			<type>lgG</type>
+			<labID>2</labID>
+		</test>
+	</patient>
+	<patient id ="2">
+		<name>Rodina Arina Andreevna</name>
+		<birth>12.09.1999</birth>
+		<policy>1238649245015825</policy>
+		<test>
+			<date>09.04.2020</date>
+			<type>lgG</type>
+			<labID>2</labID>
+		</test>
+		<test>
+			<date>08.12.2021</date>
+			<type>lgM</type>
+			<labID>1</labID>
+		</test>
+	</patient>
+	<patient id ="3">
+		<name>Pyankova Svetlana Alexandrovna</name>
+		<birth>10.02.1984</birth>
+		<policy>4678797267465746</policy>
+		<test>
+			<date>13.07.2019</date>
+			<type>lgM</type>
+			<labID>1</labID>
+		</test>
+	</patient>
+	<patient id ="4">
+		<name>Borisov Evgeny Mikhailovich</name>
+		<birth>20.01.1987</birth>
+		<policy>2718462346464663</policy>
+		<test>
+			<date>19.08.2021</date>
+			<type>lgG</type>
+			<labID>2</labID>
+		</test>
+	</patient>
+	<patient id ="5">
+		<name>Isaev Daniil Olegovich</name>
+		<birth>16.11.2001</birth>
+		<policy>3274625624228912</policy>
+		<test>
+			<date>29.01.2020</date>
+			<type>lgG</type>
+			<labID>2</labID>
+		</test>
+	</patient>
+	<patient id ="6">
+		<name>Golubev Alexander Sergeevich</name>
+		<birth>22.09.1989</birth>
+		<policy>2948790764452688</policy>
+		<test>
+			<date>09.12.2021</date>
+			<type>lgM</type>
+			<labID>1</labID>
+		</test>
+	</patient>
+	<patient id ="7">
+		<name>Petrov Mikhail Igorevich</name>
+		<birth>14.06.1977</birth>
+		<policy>9796126356728272</policy>
+		<test>
+			<date>28.11.2020</date>
+			<type>lgM</type>
+			<labID>1</labID>
+		</test>
+	</patient>
+	<patient id ="8">
+		<name>Sinitsina Olga Petrovna</name>
+		<birth>29.09.1981</birth>
+		<policy>4247663267426326</policy>
+		<test>
+			<date>10.10.2021</date>
+			<type>lgG</type>
+			<labID>2</labID>
+		</test>
+	</patient>
+	<patient id ="9">
+		<name>Sorokina Tatyana Konstantinovna</name>
+		<birth>13.05.1972</birth>
+		<policy>6432746892364723</policy>
+		<test>
+			<date>12.04.2019</date>
+			<type>lgM</type>
+			<labID>1</labID>
+		</test>
+	</patient>
+	<patient id ="10">
+		<name>Grishin Matvey Alexandrovich</name>
+		<birth>12.12.1993</birth>
+		<policy>2734243876678342</policy>
+		<test>
+			<date>13.08.2020</date>
+			<type>lgG</type>
+			<labID>2</labID>
+		</test>
+	</patient>
+</patients>
