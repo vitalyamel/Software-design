@@ -1,0 +1,94 @@
+{"patients": [
+
+	{ "name":"Melnichenko Vitaly Andreedvich",
+		"birth":"25.10.2000",
+		"policy":"6190665912678251",
+		"tests": [
+			{"date" : "11.05.2021", "type" : "lgG","precision" : "quantitative","lab" : "23","result" : "positive"}
+		]
+
+	},
+
+	{ "name":"Rodina Arina Andreevna",
+		"birth":"12.09.1999",
+		"policy":"1238649245015825",
+		"tests": [
+			{"date" : "09.04.2020", "type" : "lgG","precision" : "qualitative","lab" : "2","result" : "negative"},
+			{"date" : "08.10.2021", "type" : "lgG","precision" : "qualitative","lab" : "13","result" : "positive"}
+		]
+
+	},
+
+	{ "name":"Pyankova Svetlana Alexandrovna",
+		"birth":"01.02.1984",
+		"policy":"4678797267465746",
+		"tests": [
+			{"date" : "13.07.2019", "type" : "lgM","precision" : "quantitative","lab" : "18","result" : "positive"}
+		]
+
+	},
+
+	{ "name":"Borisov Evgeny Mikhailovich",
+		"birth":"15.08.1989",
+		"policy":"2718462346464663",
+		"tests": [
+			{"date" : "21.08.2021", "type" : "lgG","precision" : "qualitative","lab" : "1","result" : "negative"}
+		]
+
+	},
+
+	{ "name":"Isaev Daniil Olegovich",
+		"birth":"16.11.2001",
+		"policy":"3274625624228912",
+		"tests": [
+			{"date" : "29.01.2020", "type" : "lgG","precision" : "qualitative","lab" : "12","result" : "negative"}
+		]
+
+	},
+
+	{ "name":"Golubev Alexander Sergeevich",
+		"birth":"22.09.1988",
+		"policy":"2948790764452688",
+		"tests": [
+			{"date" : "19.12.2021", "type" : "lgM","precision" : "quantitative","lab" : "3","result" : "positive"}
+		]
+
+	},
+
+	{ "name":"Petrov Mikhail Igorevich",
+		"birth":"17.06.1997",
+		"policy":"9796126356728272",
+		"tests": [
+			{"date" : "20.11.2020", "type" : "lgM","precision" : "quantitative","lab" : "1","result" : "negative"}
+		]
+
+	},
+
+	{ "name":"Sinitsina Olga Petrovna",
+		"birth":"29.07.1981",
+		"policy":"4247663267426326",
+		"tests": [
+			{"date" : "10.11.2021", "type" : "lgG","precision" : "qualitative","lab" : "24","result" : "negative"}
+		]
+
+	},
+
+	{ "name":"Sorokina Tatyana Konstantinovna",
+		"birth":"13.05.1972",
+		"policy":"6432746892364723",
+		"tests": [
+			{"date" : "14.04.2019", "type" : "lgM","precision" : "qualitative","lab" : "3","result" : "positive"}
+		]
+
+	},
+
+	{ "name":"Grishin Matvey Alexandrovich",
+		"birth":"12.12.1993",
+		"policy":"2734243876678342",
+		"tests": [
+			{"date" : "17.03.2020", "type" : "lgG","precision" : "quantitative","lab" : "13","result" : "negative"}	
+		]
+
+	}
+
+]}
